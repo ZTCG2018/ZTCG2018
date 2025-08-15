@@ -1,1 +1,9 @@
-
+public/
+  logo.png                ← 你的公司Logo
+  products/
+     consumables.jpg      ← 实验室通用耗材
+     instruments.jpg      ← 分析仪器
+     pretreatment.jpg     ← 样品前处理
+     environmental.jpg    ← 环境监测设备
+     biotech.jpg          ← 生物医药耗材
+     custom.jpg           ← 定制加工
