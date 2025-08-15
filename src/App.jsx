@@ -1,8 +1,8 @@
 export default function App() {
   const company = "北京兆泰辰光科技有限公司";
-  const phone = "010-8888 8888";
-  const email = "sales@ztcg.online";
-  const address = "北京市朝阳区某某路88号 科技园B座";
+  const phone = "+65 83550296";
+  const email = "zhaotai2018@163.com";
+  const address = "北京市朝阳区锦芳路与秋实街交叉路口A2座07层";
 
   const products = [
     { title: "实验室通用耗材", desc: "离心管、移液枪头、培养皿、手套、滤膜等全品类现货。", sku: "1000+ SKU", badge: "热销" },
@@ -237,7 +237,7 @@ export default function App() {
           <div className="text-sm text-gray-600">
             <div>地址：{address}</div>
             <div>电话：{phone} ｜ 邮箱：{email}</div>
-            <div className="mt-2">京ICP备XXXXXXXX号-1（占位）</div>
+            <div className="mt-2">（占位）</div>
           </div>
         </div>
         <div className="text-center text-xs text-gray-500 pb-8">© {new Date().getFullYear()} {company}. 保留所有权利。</div>
